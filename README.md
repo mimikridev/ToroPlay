@@ -29,4 +29,4 @@ Responsive Wordpress Movies &amp; Series Theme
 <br />
 <h1>Credits</h1>
 <br />
-<p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@KaranJain29</a></b></p>
+<p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@karankankaria</a></b></p>
